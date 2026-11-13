@@ -37,6 +37,6 @@ pipeline {
        }
         always{
            echo 'pipeline execution done'
-      }
+       }
     }
 }
